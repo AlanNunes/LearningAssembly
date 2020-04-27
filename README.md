@@ -1,3 +1,3 @@
-# Learning Assembly From *[GoDevTool](www.godevtool.com)*
+# Learning Assembly From *[GoDevTool](http://www.godevtool.com)*
 
-I'll put in this repository all lessons taken in *[GoDevTool](www.godevtool.com)* tutorial for Assembly.
+I'll put in this repository all lessons taken in *[GoDevTool](http://www.godevtool.com)* tutorial for Assembly.
